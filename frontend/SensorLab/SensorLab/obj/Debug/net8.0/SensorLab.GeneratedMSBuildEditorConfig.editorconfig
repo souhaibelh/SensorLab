@@ -32,12 +32,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Pages/Devices.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Button.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Flex.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZsZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/_Imports.razor]

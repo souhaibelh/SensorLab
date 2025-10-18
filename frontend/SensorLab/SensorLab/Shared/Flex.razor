@@ -1,0 +1,16 @@
+﻿<div class="@BuildClasses()">
+    @ChildContent
+</div>
+
+@code {
+    [Parameter] public string Direction { get; set; } = "row";
+    [Parameter] public string Align { get; set; } = "start";
+    [Parameter] public string Justify { get; set; } = "start";
+    [Parameter] public string Gap { get; set; } = "2";
+    [Parameter] public string? Class { get; set; }
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+
+    private string BuildClasses() =>
+        $"d-flex flex-{Direction} align-items-{Align} justify-content-{Justify} gap-{Gap} {Class}";
+}
+

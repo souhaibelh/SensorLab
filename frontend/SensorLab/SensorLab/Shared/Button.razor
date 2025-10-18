@@ -1,0 +1,27 @@
+﻿<button class="@GetButtonClass()">
+    @ChildContent
+</button>
+
+@code {
+    [Parameter]
+    public string? Type { get; set; } = "primary";
+
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+
+    private string GetButtonClass()
+    {
+        return Type?.ToLower() switch
+        {
+            "primary" => "btn btn-primary",
+            "secondary" => "btn btn-secondary",
+            "success" => "btn btn-success",
+            "danger" => "btn btn-danger",
+            "warning" => "btn btn-warning",
+            "info" => "btn btn-info",
+            "light" => "btn btn-light",
+            "dark" => "btn btn-dark",
+            _ => "btn btn-primary"
+        };
+    }
+}
