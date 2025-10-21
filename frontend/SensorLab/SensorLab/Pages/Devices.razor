@@ -1,13 +1,38 @@
-﻿@page "/devices"
+﻿@using SensorLab.Services
+@using SensorLab.Shared.Modals
+@page "/devices"
 
 <PageTitle>Devices</PageTitle>
 
 <h1>Devices</h1>
 
-<Flex>
-    <Button Type="primary">Add</Button>
+<Flex Align="end" Justify="end">
+    <Button Type="primary" OnClick="OpenAddDeviceModal">Add</Button>
 </Flex>
 
-@code {
+<Table T="Device" Items="@DevicesList" Columns="@Columns">
+    <RowTemplate Context="d">
+        <td>@d.Name</td>
+        <td>@d.Type</td>
+        <td>@d.Status</td>
+    </RowTemplate>
+</Table>
 
+@code {
+    [Inject] IModalService modalService { get; set; } = default!;
+
+    record Device(string Name, string Type, string Status);
+
+    List<Device> DevicesList = new()
+    {
+        new("Sensor 1", "Ultrasonic", "Active"),
+        new("Sensor 2", "Infrared", "Offline")
+    };
+
+    List<string> Columns = new() { "Name", "Type", "Status" };
+
+    void OpenAddDeviceModal()
+    {
+        modalService.Show<AddDeviceModal>("Device");
+    }
 }

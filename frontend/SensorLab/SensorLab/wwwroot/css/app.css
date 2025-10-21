@@ -1,5 +1,48 @@
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+:root {
+    --primary: #335ea1;
+    --secondary: #337fc7;
+
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+
+    --success: #2eae60;
+    --warning: #fbbf24;
+    --error: #e11d48;
+    --info: #0284c7;
+
+    --on-primary: #ffffff;
+    --on-secondary: #ffffff;
+
+    --background: #f8fafc;
+    --surface: #ffffff;
+
+    --base: #e2e8f0; 
+    --accent: #0ea5e9;
+    --line: #cbd5e1; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    line-height: 1.5rem;
+}
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    background-color: var(--primary);
+    color: var(--text-secondary);
 }
 
 h1:focus {
@@ -100,4 +143,78 @@ a, .btn-link {
 
 code {
     color: #c02d76;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+}
+
+.modal-container {
+    background: #fff;
+    border-radius: 10px;
+    width: 500px;
+    max-width: 90%;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.modal-body {
+    padding: 1rem;
+}
+
+.material-symbols-outlined {
+    font-size: 22px;
+    transition: color 0.25s ease, transform 0.2s ease;
+    color: inherit;
+}
+
+.nav-link {
+    border-radius: .5em;
+    padding: .85em;
+    text-decoration: none;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+
+.nav-link.active {
+    color: var(--accent);
+    .material-symbols-outlined{
+        color: var(-accent);
+    }
+}
+
+.nav-link .material-symbols-outlined {
+    flex-shrink: 0;
+}
+
+.nav-link span:nth-of-type(2) {
+    flex-grow: 1;
+}
+
+.nav-link:hover {
+    background-color: var(--secondary);
+}
+
+
+.sub-menu > * {
+    padding-left: 2em;
 }

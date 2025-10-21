@@ -1,0 +1,46 @@
+﻿@using SensorLab.Services
+@inject IModalService ModalService
+
+@if (_isVisible)
+{
+    <div class="modal-overlay" @onclick="Close">
+        <div class="modal-container" @onclick:stopPropagation="true">
+            <div class="modal-header">
+                <h5>@_title</h5>
+                <button class="btn-close" @onclick="Close"></button>
+            </div>
+            <div class="modal-body">
+                @_content
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private bool _isVisible;
+    private RenderFragment? _content;
+    private string _title = "";
+
+    protected override void OnInitialized()
+    {
+        ModalService.OnShow += ShowModal;
+        ModalService.OnClose += Close;
+    }
+
+    private void ShowModal(RenderFragment content, string title)
+    {
+        _content = content;
+        _title = title;
+        _isVisible = true;
+        StateHasChanged();
+    }
+
+    private void Close()
+    {
+        _isVisible = false;
+        _content = null;
+        _title = "";
+        StateHasChanged();
+    }
+}
+

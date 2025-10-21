@@ -3,36 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\flex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\flex.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\submenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\submenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\submenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\submenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\table.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\table.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\button.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\button.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\dropdownbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\dropdownbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\sensorlab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\sensorlab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\services\\sidebarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\services\\sidebarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\dropdownbutton.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\dropdownbutton.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\mynavlink.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\mynavlink.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\mynavlink.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\mynavlink.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\button.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\button.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\button.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\button.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\table.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\table.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\wwwroot\\css\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\modals\\adddevicemodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\modals\\adddevicemodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|c:\\users\\judoj\\documents\\github\\sensorlab\\frontend\\sensorlab\\sensorlab\\shared\\modals\\modalhost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C48C4D-F2BE-4C9E-BDA0-6F605B01F173}|SensorLab\\SensorLab.csproj|solutionrelative:sensorlab\\shared\\modals\\modalhost.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +102,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Flex.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Flex.razor",
-              "RelativeDocumentMoniker": "SensorLab\\Shared\\Flex.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Flex.razor",
-              "RelativeToolTip": "SensorLab\\Shared\\Flex.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SubMenu.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\SubMenu.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\SubMenu.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\SubMenu.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\SubMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T06:03:46.338Z",
+              "WhenOpened": "2025-10-20T12:02:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\SubMenu.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\SubMenu.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\SubMenu.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\SubMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T12:04:31.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "SensorLab\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "SensorLab\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T05:58:43.824Z",
+              "Title": "Sidebar.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Sidebar.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Sidebar.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Sidebar.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\Sidebar.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T11:31:29.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Devices.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Devices.razor",
-              "RelativeDocumentMoniker": "SensorLab\\Pages\\Devices.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Devices.razor",
-              "RelativeToolTip": "SensorLab\\Pages\\Devices.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Table.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Table.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Table.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Table.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\Table.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T05:57:43.954Z",
+              "WhenOpened": "2025-10-20T09:52:06.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DropdownButton.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\DropdownButton.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\DropdownButton.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\DropdownButton.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\DropdownButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T12:12:30.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\_Imports.razor",
-              "RelativeDocumentMoniker": "SensorLab\\_Imports.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\_Imports.razor",
-              "RelativeToolTip": "SensorLab\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SensorLab\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T05:52:11.163Z",
+              "WhenOpened": "2025-10-19T19:45:45.404Z",
               "EditorCaption": ""
             },
             {
@@ -104,53 +190,216 @@
               "RelativeDocumentMoniker": "SensorLab\\Program.cs",
               "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Program.cs",
               "RelativeToolTip": "SensorLab\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T05:50:43.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "SensorLab\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Counter.razor",
-              "RelativeToolTip": "SensorLab\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T05:49:41.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Button.razor",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor",
-              "RelativeDocumentMoniker": "SensorLab\\Shared\\Button.razor",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor",
-              "RelativeToolTip": "SensorLab\\Shared\\Button.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-18T05:44:53.919Z",
+              "WhenOpened": "2025-10-20T18:52:57.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SensorLab",
-              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\SensorLab.csproj",
-              "RelativeDocumentMoniker": "SensorLab\\SensorLab.csproj",
-              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\SensorLab.csproj",
-              "RelativeToolTip": "SensorLab\\SensorLab.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-18T05:44:28.411Z",
+              "Title": "SidebarState.cs",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Services\\SidebarState.cs",
+              "RelativeDocumentMoniker": "SensorLab\\Services\\SidebarState.cs",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Services\\SidebarState.cs",
+              "RelativeToolTip": "SensorLab\\Services\\SidebarState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:52:28.387Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DropdownButton.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\DropdownButton.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\DropdownButton.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\DropdownButton.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\DropdownButton.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T12:15:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "SensorLab\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "SensorLab\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAjwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-19T20:08:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyNavLink.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\MyNavLink.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\MyNavLink.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\MyNavLink.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\MyNavLink.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T06:00:40Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyNavLink.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\MyNavLink.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\MyNavLink.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\MyNavLink.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\MyNavLink.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T11:42:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SensorLab\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:51:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sidebar.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Sidebar.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Sidebar.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Sidebar.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\Sidebar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T10:42:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SensorLab\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\index.html",
+              "RelativeToolTip": "SensorLab\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-19T20:26:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Button.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Button.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\Button.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T09:54:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Table.razor.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Table.razor.css",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Table.razor.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Table.razor.css",
+              "RelativeToolTip": "SensorLab\\Shared\\Table.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T09:52:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Button.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Button.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Button.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\Button.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:48:15.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Devices.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Devices.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Pages\\Devices.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Pages\\Devices.razor",
+              "RelativeToolTip": "SensorLab\\Pages\\Devices.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:02:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "SensorLab\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "SensorLab\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-19T20:03:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\App.razor",
+              "RelativeDocumentMoniker": "SensorLab\\App.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\App.razor",
+              "RelativeToolTip": "SensorLab\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:26:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddDeviceModal.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Modals\\AddDeviceModal.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Modals\\AddDeviceModal.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Modals\\AddDeviceModal.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\Modals\\AddDeviceModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:48:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModalHost.razor",
+              "DocumentMoniker": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Modals\\ModalHost.razor",
+              "RelativeDocumentMoniker": "SensorLab\\Shared\\Modals\\ModalHost.razor",
+              "ToolTip": "C:\\Users\\judoj\\Documents\\GitHub\\SensorLab\\frontend\\SensorLab\\SensorLab\\Shared\\Modals\\ModalHost.razor",
+              "RelativeToolTip": "SensorLab\\Shared\\Modals\\ModalHost.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:48:25.568Z"
             }
           ]
         }

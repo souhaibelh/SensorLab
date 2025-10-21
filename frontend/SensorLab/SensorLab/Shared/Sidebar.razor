@@ -1,0 +1,7 @@
+﻿<nav class="sidebar">
+    @ChildContent
+</nav>
+
+@code {
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+}

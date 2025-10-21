@@ -1,0 +1,24 @@
+﻿@inject SensorLab.Services.SidebarState Sidebar
+
+<button @onclick="ToggleMenu" class="dropdown-btn @(Sidebar.IsOpen(MenuId) ? "show" : "hide")">
+    @if (!string.IsNullOrWhiteSpace(Icon))
+    {
+        <span class="material-symbols-outlined">@Icon</span>
+    }
+    @if (!string.IsNullOrWhiteSpace(InnerText))
+    {
+        <span>@InnerText</span>
+    }
+    <span class="material-symbols-outlined icon-open">keyboard_arrow_down</span>
+</button>
+
+@code {
+    [Parameter] public string? Icon { get; set; }
+    [Parameter] public string? InnerText { get; set; }
+    [Parameter] public string MenuId { get; set; } = string.Empty;
+
+    private void ToggleMenu()
+    {
+        Sidebar.Toggle(MenuId);
+    }
+}

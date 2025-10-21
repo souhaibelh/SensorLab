@@ -1,4 +1,4 @@
-﻿<button class="@GetButtonClass()">
+﻿<button class="@GetButtonClass()" @onclick="OnClick">
     @ChildContent
 </button>
 
@@ -8,6 +8,9 @@
 
     [Parameter]
     public RenderFragment? ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback OnClick { get; set; }
 
     private string GetButtonClass()
     {

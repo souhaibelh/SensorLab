@@ -1,0 +1,17 @@
+.sub-menu[b-u2q6qggycz] {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: 300ms ease-in-out;
+
+    > div {
+        overflow: hidden;
+    }
+}
+
+.sub-menu *[b-u2q6qggycz] {
+    padding-left: 1em;
+}
+
+.show[b-u2q6qggycz] {
+    grid-template-rows: 1fr;
+}

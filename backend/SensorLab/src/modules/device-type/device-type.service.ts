@@ -1,4 +1,4 @@
-import { DeviceTypeRepository} from "./device.repository";
+import { DeviceTypeRepository} from "./device-type.repository";
 import { DeviceType} from "../../entities/device-type.entity";
 import { CreateDeviceTypeDto } from "./dto/create-device-type.dto";
 import { UpdateDeviceTypeDto} from "./dto/update-device-type.dto";

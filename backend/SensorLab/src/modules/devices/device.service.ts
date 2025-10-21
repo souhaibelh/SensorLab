@@ -1,9 +1,9 @@
-import { DeviceRepository } from "./devices.repository";
+import { DeviceRepository } from "./device.repository";
 import { Device } from "../../entities/device.entity"
 import { CreateDeviceDto } from "./dto/create-device.dto"
 import { UpdateDeviceDto } from "./dto/update-device.dto"
 
-export class DevicesService {
+export class DeviceService {
     async create(dto : CreateDeviceDto) : Promise<Device> {
         const device = DeviceRepository.create(dto);
         return DeviceRepository.save(device);

@@ -1034,6 +1034,12 @@ C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug
 C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\refint\SensorLab.dll
 C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\SensorLab.pdb
 C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\ref\SensorLab.dll
-C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\omgwg5soei-4htkr4dwbr.gz
-C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\51s3e1ou2q-tk1uj7r8mq.gz
-C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\0vkonz6bes-wb4nofr9xo.gz
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\Button.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\Table.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\Sidebar.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\MyNavLink.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\SubMenu.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\scopedcss\Shared\DropdownButton.razor.rz.scp.css
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\omgwg5soei-a5jcjv3qo3.gz
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\51s3e1ou2q-1x4r5ik84j.gz
+C:\Users\judoj\Documents\GitHub\SensorLab\frontend\SensorLab\SensorLab\obj\Debug\net8.0\compressed\0vkonz6bes-c5t0ri2vyd.gz

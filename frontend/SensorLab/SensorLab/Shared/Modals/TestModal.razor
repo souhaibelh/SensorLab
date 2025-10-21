@@ -1,0 +1,14 @@
+﻿@using SensorLab.Services;
+
+<h3>Test Modal</h3>
+
+<Button Type="primary" OnClick="ShowModal">Open Add Device Modal</Button>
+
+@code {
+    [Inject] IModalService ModalService { get; set; } = default!;
+
+    private void ShowModal()
+    {
+        ModalService.Show<Button>("Add Device");
+    }
+}

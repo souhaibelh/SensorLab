@@ -1,0 +1,36 @@
+﻿@typeparam T
+
+<table class="table">
+    <thead>
+        <tr>
+            @if (Columns != null)
+            {
+                foreach (var column in Columns)
+                {
+                    <th scope="col">@column</th>
+                }
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @if (Items != null)
+        {
+            foreach (var item in Items)
+            {
+                <tr>
+                    @RowTemplate(item)
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@code {
+    [Parameter]
+    public IEnumerable<T>? Items { get; set; }
+
+    [Parameter]
+    public List<String>? Columns { get; set; }
+
+    [Parameter] public RenderFragment<T>? RowTemplate { get; set; }
+}

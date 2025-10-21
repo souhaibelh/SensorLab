@@ -1,0 +1,17 @@
+﻿.sub-menu {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: 300ms ease-in-out;
+
+    > div {
+        overflow: hidden;
+    }
+}
+
+.sub-menu * {
+    padding-left: 1em;
+}
+
+.show {
+    grid-template-rows: 1fr;
+}

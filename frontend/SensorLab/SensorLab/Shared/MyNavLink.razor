@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Components.Routing
+
+<NavLink class="nav-link" href="@Href" Match="@Match">
+    @if (!string.IsNullOrWhiteSpace(Icon))
+    {
+        <span class="material-symbols-outlined">@Icon</span>
+    }
+    @if (!string.IsNullOrWhiteSpace(InnerText))
+    {
+        <span >@InnerText</span>
+    }
+</NavLink>
+
+@code {
+    [Parameter] public string? Href { get; set; }
+    [Parameter] public string? Icon { get; set; }
+    [Parameter] public string? InnerText { get; set; }
+    [Parameter] public NavLinkMatch Match { get; set; } = NavLinkMatch.Prefix;
+}

@@ -1,0 +1,79 @@
+﻿@page "/device-form"
+
+@using Microsoft.AspNetCore.Components.Forms
+@using SensorLab.Dtos.Device  @* <-- Correct namespace for DeviceDto *@
+@using SensorLab.Services
+@using SensorLab.Shared
+
+@inject HttpClient Http
+@inject IModalService ModalService
+
+<EditForm Model="@device" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="mb-3">
+        <label for="name">Name</label>
+        <InputText id="name" @bind-Value="device.Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="typeId">Type ID</label>
+        <InputNumber id="typeId" @bind-Value="device.Type_Id" class="form-control" />
+    </div>
+
+    <div class="form-check mb-3">
+        <InputCheckbox id="isActive" @bind-Value="device.IsActive" class="form-check-input" />
+        <label class="form-check-label" for="isActive">Active</label>
+    </div>
+
+    <div class="mb-3">
+        <label for="createdAt">Created At</label>
+        <InputDate id="createdAt" @bind-Value="device.CreatedAt" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label for="lastUpdated">Last Updated</label>
+        <InputDate id="lastUpdated" @bind-Value="device.LastUpdated" class="form-control" />
+    </div>
+
+    <div class="d-flex justify-content-end gap-2">
+        <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</EditForm>
+
+@code {
+    private DeviceDto device = new()
+    {
+        CreatedAt = DateTime.UtcNow,
+        LastUpdated = DateTime.UtcNow
+    };
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            var response = await Http.PostAsJsonAsync("api/devices", device);
+
+            if (response.IsSuccessStatusCode)
+            {
+                Console.WriteLine("Device created successfully!");
+                ModalService?.Close();
+            }
+            else
+            {
+                Console.WriteLine("Error creating device");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Exception: {ex.Message}");
+        }
+    }
+
+    private void Cancel()
+    {
+        ModalService?.Close();
+    }
+}

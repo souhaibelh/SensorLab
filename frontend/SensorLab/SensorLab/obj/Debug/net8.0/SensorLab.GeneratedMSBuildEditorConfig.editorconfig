@@ -44,12 +44,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Button.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJ1dHRvbi5yYXpvcg==
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Empty.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Flex.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZsZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Modals/AddDeviceModal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsc1xBZGREZXZpY2VNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Modals/ModalHost.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsc1xNb2RhbEhvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Modals/TestModal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsc1xUZXN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/_Imports.razor]
@@ -63,3 +75,27 @@ build_metadata.AdditionalFiles.CssScope = b-68d8bjhpmy
 [C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iv1rju58lg
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Button.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qm8x0msiar
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/DropdownButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERyb3Bkb3duQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0ctneae115
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/MyNavLink.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE15TmF2TGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qc40o7bprs
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Sidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpZGViYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mmk6r9t1gp
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/SubMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1Yk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-u2q6qggycz
+
+[C:/Users/judoj/Documents/GitHub/SensorLab/frontend/SensorLab/SensorLab/Shared/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRhYmxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-cujbc2auwt

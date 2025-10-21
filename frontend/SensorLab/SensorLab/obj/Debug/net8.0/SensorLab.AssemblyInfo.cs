@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SensorLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb45bd7bf559592095a5f0bd6781623db4068f63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f44ec97f1d669f12d71398e27f518cfd2452a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("SensorLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SensorLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

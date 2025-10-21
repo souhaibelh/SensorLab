@@ -1,8 +1,17 @@
-﻿@inherits LayoutComponentBase
+﻿@using SensorLab.Shared.Modals
+@using SensorLab.Shared
+@inherits LayoutComponentBase
+
 <div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+    <Sidebar>
+        <MyNavLink Href="/hehe" Icon="keyboard_hide" InnerText="Some text"></MyNavLink>
+        <MyNavLink Href="/devices" Icon="keyboard_hide" InnerText="Devices"></MyNavLink>
+        <DropdownButton Icon="home" InnerText="Home" MenuId="1"></DropdownButton>
+        <SubMenu MenuId="1">
+            <MyNavLink Href="/settings/profile" Icon="person" InnerText="Profile Settings"></MyNavLink>
+            <MyNavLink Href="/settings/account" Icon="settings" InnerText="Account Settings"></MyNavLink>
+        </SubMenu>
+    </Sidebar>
 
     <main>
         <div class="top-row px-4">
@@ -14,3 +23,9 @@
         </article>
     </main>
 </div>
+
+<ModalHost />
+
+@code {
+
+}

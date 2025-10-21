@@ -1,0 +1,30 @@
+﻿@inject SensorLab.Services.SidebarState Sidebar
+
+<div class="sub-menu @(Sidebar.IsOpen(MenuId) ? "show" : "hide")">
+    <div>
+        @ChildContent
+    </div>
+</div>
+
+@code {
+    [Parameter] public RenderFragment? ChildContent { get; set; }
+    [Parameter] public string MenuId { get; set; } = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        Sidebar.OnToggle += HandleToggle;
+    }
+
+    private void HandleToggle(string id)
+    {
+        if (id == MenuId)
+        {
+            InvokeAsync(StateHasChanged);
+        }
+    }
+
+    public void Dispose()
+    {
+        Sidebar.OnToggle -= HandleToggle;
+    }
+}

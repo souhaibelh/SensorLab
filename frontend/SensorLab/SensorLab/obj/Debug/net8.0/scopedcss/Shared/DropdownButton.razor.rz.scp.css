@@ -1,0 +1,30 @@
+.dropdown-btn[b-0ctneae115] {
+    border-radius: .5em;
+    padding: .85em;
+    text-decoration: none;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    border: none;
+    background: none;
+    text-align: left;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.dropdown-btn .material-symbols-outlined[b-0ctneae115] {
+    flex-shrink: 0;
+}
+
+    .dropdown-btn span:nth-of-type(2)[b-0ctneae115] {
+        flex-grow: 1;
+    }
+
+.dropdown-btn:hover[b-0ctneae115] {
+    background-color: var(--secondary);
+}
+
+.show .icon-open[b-0ctneae115] {
+    transform: rotate(180deg);
+}
